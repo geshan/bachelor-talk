@@ -182,3 +182,32 @@ div.title-position-mid {
     left: 0px;
     top: 100px;
 }
+
+
+div.title-position-middle {
+    position: absolute;
+    width: 90%;
+    height: 55px;
+    z-index: 4;
+    left: 0px;
+    top: 150px;
+}
+
+
+div.title-position-middle3 {
+    position: absolute;
+    width: 90%;
+    height: 55px;
+    z-index: 4;
+    left: 0px;
+    top: 250px;
+}
+
+div.title-position-middle4 {
+    position: absolute;
+    width: 90%;
+    height: 55px;
+    z-index: 4;
+    left: 0px;
+    top: 350px;
+}
