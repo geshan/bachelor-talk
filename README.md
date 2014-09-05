@@ -9,4 +9,4 @@ company and doing internship. To concluded I gave some tips on approaching the j
 went good and I was able to convey my message correctly to all the participants. I hope the students will
 benefit from it.
 
-More [info](http://bit.ly/1ou30gM).
+More [info](http://bit.ly/1ou30gM) with video and slides, you can view the [slides](http://geshan.github.io/bachelor-talk).
